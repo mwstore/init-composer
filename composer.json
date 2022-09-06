@@ -1,0 +1,19 @@
+{
+  "name": "mwstore/init-composer",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/mwstore",
+  "keywords": ["mwstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/mwstore/init-composer",
+    "issues": "https://github.com/mwstore/init-composer/issues",
+    "docs": "https://github.com/mwstore/init-composer/wiki",
+    "forum": "https://github.com/mwstore/init-composer/discussions"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
